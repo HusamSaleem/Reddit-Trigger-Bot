@@ -26,7 +26,6 @@
 - You can also change the corresponding message for that word (By Index) in the message_replies list
 
 -  Then you can choose between two functions, scrape_subreddit("subreddit") & scrape_subreddit_limit("subreddit", limit = x, hot = True/False). scrape_subreddit will endlessly get new submissions from that certain subreddit you choose (there is an api limit though). And scrape_subreddit_limit will choose the first "x" amount of posts to process and you can choose to get the "hot" posts only.
--  
 
 
 # A couple of pictures
