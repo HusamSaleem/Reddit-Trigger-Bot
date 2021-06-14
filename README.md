@@ -16,7 +16,7 @@
 - Python
 - PRAW
 - registered bot for Reddit
-- *Optional* MongoDB
+- *Optional MongoDB*
 
 # How to setup
 - ![image](https://user-images.githubusercontent.com/60799172/121957131-d87d5880-cd16-11eb-9432-f88d790a0598.png)
