@@ -15,7 +15,7 @@
 # Requirements
 - Python
 - PRAW
-- registered bot for Reddit
+- Registered bot for Reddit
 - *Optional MongoDB*
 
 # How to setup
